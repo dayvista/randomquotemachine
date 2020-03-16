@@ -18,7 +18,7 @@ class App extends Component {
               <span role="img" aria-label="Wave Emoji">
                 &#128591;
               </span>
-              <h1 className="large">Kanye West Quote Machine</h1>
+              <h1 className="large">Kanye West Quote Generator</h1>
               <h2 className="lead">
                 Powered by{" "}
                 <a
