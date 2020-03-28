@@ -44,7 +44,7 @@ class FetchQuote extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <Button className="myButton" id="tweetButton">
+            <Button className="myButton tweetButton">
               <i className="fi-stluxl-twitter"></i> Tweet this gem!
             </Button>
           </a>
