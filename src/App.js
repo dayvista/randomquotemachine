@@ -31,11 +31,11 @@ class App extends Component {
                 <br />
                 Designed by William Davis @{" "}
                 <a
-                  href="https://dayvista.dev"
+                  href="https://liamdavis.dev"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  dayvista.dev
+                  liamdavis.dev
                 </a>
               </h2>
             </Card.Header>
